@@ -1,0 +1,6 @@
+@article{REPO117,
+    author = "Li, Kang and Qiao, Junfei and Wang, Dianhui",
+    journal = "IEEE Transactions on Industrial Informatics",
+    title = "{Online Self-Learning Stochastic Configuration Networks for Nonstationary Data Stream Analysis}",
+    year = "2023"
+}
